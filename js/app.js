@@ -37,7 +37,7 @@
  * Begin Main Functions
  * 
 */
-
+alert("hello");
 // build the nav
 
 
