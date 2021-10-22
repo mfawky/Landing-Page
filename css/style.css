@@ -66,34 +66,32 @@ section {
 /* Navigation Styles*/
 
 .navbar__menu ul {
+    padding: 2%;
     padding-left: 0;
     margin: 0;
     text-align: right;
     background: linear-gradient(0deg, rgba(0,13,60,1) 0%, rgba(136,203,171,1) 90%);
     font-family: 'Fira Sans', sans-serif;
-    opacity: 1;
 
 }
 
 
 .navbar__menu li {
-    display: inline-block;
-    margin: 35px 20px 30px 40px;
-
+    display: inline-flex;
+    padding-left: 2%;
+    margin: 5;
+    font-size: 25px;
     cursor: pointer;
 }
 
-.navbar__menu .menu__link {
-    display: block;
-    padding: 1em;
+.navbar__menu .nav__item {
     font-weight: bold;
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 
-.navbar__menu .menu__link:hover {
-    background: #333;
-    color: #fff;
+.navbar__menu .nav__item:hover {
+    color: #000;
     transition: ease 0.3s all;
 }
 
