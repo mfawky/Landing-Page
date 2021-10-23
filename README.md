@@ -7,6 +7,7 @@ Its a landing-page project that is monitored by Udacity team which focuses a lit
 - css
 - Javascript 
 - The tool I used is VS Code (Visual Studio Code).
+- I used Fork Application to help me clone, puh or pull anything from or to my repo.
 
 
 ## Some Functionalities:
