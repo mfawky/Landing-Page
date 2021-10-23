@@ -95,6 +95,7 @@ section {
     transition: ease 0.3s all;
 }
 
+
 /* Header Styles */
 .page__header {
     background: #fff;
@@ -114,7 +115,6 @@ section {
 .page__footer p{
     color: #fff;
 }
-
 
 /* ---- Theme Rules ---- */
 /* Landing Container Styles */
