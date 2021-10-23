@@ -1,5 +1,5 @@
 # Landing-Page
-Its a landing-page project that is monitored by Udacity team which focuses a little bit on some javascript features and some manipulating with the DOM.
+Its a landing-page project that is monitored by Udacity team which focuses mostly on some javascript features and some manipulating with the DOM.
 
 
 ## Languages and tools used:
@@ -7,7 +7,7 @@ Its a landing-page project that is monitored by Udacity team which focuses a lit
 - css
 - Javascript 
 - The tool I used is VS Code (Visual Studio Code).
-- I used Fork Application to help me clone, puh or pull anything from or to my repo.
+- I used Fork Application to help me clone, push or pull anything from or to my repo.
 
 
 ## Some Functionalities:
