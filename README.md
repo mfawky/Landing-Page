@@ -23,7 +23,7 @@ understandable way that makes it easier for any one to read and ofcourse
 how to add comments to my code that simplifies what i did to the reader.
 
 
-## How to use it or apply it on your device:
+## How to use it or apply on your device:
 
 First: you ca clone this repository and open your index.html with your used IDE and link the css and js files to the html file
 
